@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 No, no.
+=======
+He kicked the instructor in the balls.
+>>>>>>> second-branch

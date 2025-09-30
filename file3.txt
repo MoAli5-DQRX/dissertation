@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Oh, yeah.  
+=======
+He went skydiving.
+>>>>>>> second-branch
